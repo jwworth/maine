@@ -1,7 +1,7 @@
 Given 'I am on the homepage' do
   visit root_path
   within 'h1' do
-    expect(page).to have_content('Maine Facts About Maine')
+    expect(page).to have_content 'MAINE'
   end
 end
 
