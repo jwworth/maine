@@ -9,3 +9,10 @@ I wrote this application for a party where almost half the guests grew up in Mai
 Besides entertainment, my motivation here was to see how quickly I could come up with an idea, build it (using TDD, without scaffolding or a template), and deploy. It took about forty minutes from start to finish.
 
 The data is scraped from Wikipedia's [Maine](https://en.wikipedia.org/wiki/Maine) page.
+
+### License
+
+&copy; 2015 Jake Worth
+
+This repository is distributed under the MIT license. See `LICENSE` for
+details.
