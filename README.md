@@ -10,8 +10,8 @@ facts throughout the night. It was fun, especially when the data was
 incoherent.
 
 Besides entertainment, my motivation here was to see how quickly I could come
-up with an idea, build it (using TDD, without scaffolding or a template), and
-deploy. It took about forty minutes from start to finish.
+up with an idea, build, and deploy it. It took about forty minutes from start
+to finish.
 
 The data is scraped from Wikipedia's
 [Maine](https://en.wikipedia.org/wiki/Maine) page.
@@ -28,5 +28,5 @@ $ rackup
 
 ### License
 
-TIL is released under the [MIT
+Maine is released under the [MIT
 License](http://www.opensource.org/licenses/MIT).
