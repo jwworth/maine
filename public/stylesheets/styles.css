@@ -1,0 +1,18 @@
+body {
+  color: navy;
+  margin: 0 auto;
+  width: 900px;
+  text-align: center;
+  background: #fff;
+  color: #000066;
+}
+
+body a {
+  text-decoration: initial;
+  color: #000066;
+}
+
+body h1 a {
+  font-family: 'IM Fell DW Pica';
+  font-size: 100px;
+}
